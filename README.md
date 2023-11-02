@@ -1,5 +1,5 @@
 
-# LayerZero
+# BridgeAutomation
 
 Софт для автоматизации транзакций черз мосты
 
