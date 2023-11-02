@@ -7,9 +7,9 @@
 ## Documentation
 
 ```bash
-git clone https://github.com/
+git clone https://github.com/BridgeAutomation.git
 
-cd 
+cd BridgeAutomation
 
 pip install -r requirements.txt
 
